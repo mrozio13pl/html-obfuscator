@@ -1,4 +1,4 @@
-# HTML Obfuscator [![Version](https://img.shields.io/static/v1?label=Version&message=1.0.0&color=blue)](https://www.npmjs.com/package/html-obfuscator) [![License](https://img.shields.io/badge/licence-MIT-green)](https://github.com/mrozio13pl/html-obfuscator/LICENSE) [![Build Passing](https://img.shields.io/badge/build-passing-success)](https://www.npmjs.com/package/html-obfuscator)
+# HTML Obfuscator [![Version](https://img.shields.io/static/v1?label=Version&message=1.0.0&color=blue)](https://www.npmjs.com/package/html-obfuscator) [![License](https://img.shields.io/badge/licence-MIT-green)](https://github.com/mrozio13pl/html-obfuscator/blob/main/LICENSE) [![Build Passing](https://img.shields.io/badge/build-passing-success)](https://www.npmjs.com/package/html-obfuscator)
 
 ##### A simple html obfuscator that makes code harder to read and understand
 
