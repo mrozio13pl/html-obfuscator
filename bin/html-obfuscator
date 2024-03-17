@@ -1,0 +1,12 @@
+#!/usr/bin/env node
+
+const { obfuscate } = require('..');
+const fs = require('fs');
+
+let src = process.argv.slice(2).join(' ');
+
+if (fs.existsSync(src)) src = fs.readFileSync(src, 'utf8');
+
+process.stdout.write(
+    obfuscate(src)
+);

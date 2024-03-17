@@ -1,0 +1,1 @@
+export function obfuscate(src: string): string;

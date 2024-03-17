@@ -1,11 +1,34 @@
 {
   "name": "html-obfuscator",
   "version": "1.0.0",
-  "description": "Simple html obfuscator",
+  "description": "Extremely simple HTML obfuscator.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "types": "index.d.ts",
+  "bin": {
+    "html-obfuscator": "./bin/html-obfuscator"
   },
-  "author": "",
-  "license": "ISC"
+  "scripts": {
+    "test": "uvu test"
+  },
+  "repository": "mrozio13pl/html-obfuscator",
+  "author": "mrozio13pl",
+  "license": "MIT",
+  "files": [
+    "bin",
+    "index.js",
+    "index.d.ts"
+  ],
+  "keywords": [
+    "html",
+    "obfuscate",
+    "obfuscator",
+    "encrypt",
+    "web",
+    "site"
+  ],
+  "devDependencies": {
+    "@mrozio/eslint-config": "^1.0.4",
+    "eslint": "^8.57.0",
+    "uvu": "^0.5.6"
+  }
 }
