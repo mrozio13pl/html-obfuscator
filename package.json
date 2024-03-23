@@ -1,6 +1,6 @@
 {
   "name": "html-obfuscator",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Extremely simple HTML obfuscator.",
   "main": "index.js",
   "types": "index.d.ts",
